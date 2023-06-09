@@ -1,0 +1,155 @@
+.separator {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+clear: both;
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+text-align: center;
+}
+
+.lightbox {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+clear: left;
+color: black;
+cursor: pointer;
+float: left;
+margin: 0px 1em 1em 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+text-decoration-line: none;
+}
+
+.gambar {
+-webkit-font-smoothing: subpixel-antialiased;
+border-radius: 2px;
+box-shadow: rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+box-sizing: border-box;
+display: block;
+margin: 15px 0px 0px;
+max-width: 100%;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+width: 63.9931px;
+}
+.h {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+font-weight: 500;
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.spana {
+box-sizing: border-box;
+font-family: "arial";
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.bra {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+clear: none;
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.hh {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+font-weight: 500;
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.spanb {
+box-sizing: border-box;
+font-family: "arial";
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.ha {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+color: #009688;
+font-weight: 500;
+margin: 20px 0px 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.spanc {
+box-sizing: border-box;
+color: #32a852;
+font-family: "arial";
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.linka {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+color: black;
+cursor: pointer;
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+text-decoration-line: none;
+}
+
+.divm {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.spand {
+box-sizing: border-box;
+font-family: "arial";
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.brt {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+clear: none;
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
+
+.divo {
+-webkit-font-smoothing: subpixel-antialiased;
+box-sizing: border-box;
+margin: 0px;
+outline: none;
+overflow-wrap: break-word;
+padding: 0px;
+}
